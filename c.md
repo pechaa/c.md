@@ -23,3 +23,5 @@ n|dn|n
 n|y|dn
 y|dn|n
 dn|да|n
+
+![](https://avatars.mds.yandex.net/get-pdb/70729/fffdb085-5542-4660-82bd-3264b3cf2227/s1200)
